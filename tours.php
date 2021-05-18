@@ -18,7 +18,7 @@
     <section class="section">
         <div class="container">
             <div class="section-header">
-                <h2 class="section_title">Наши туры</h2>
+                <h2 class="section_title">Наши туры:</h2>
                 <div class="section-text">
                     <p>«Никогда не бойтесь уехать прочь от морей, границ, стран и мыслей» — Амин Маалуф.</p>
                 </div>
